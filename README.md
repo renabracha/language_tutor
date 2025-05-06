@@ -17,7 +17,7 @@ The program operates in the following sequence:
 4. The AI Tutor engages with the learner in the target language and can switch between languages to explain words and expressions, following the learner’s cues.
 5. The program terminates when the learner types a sentinel value ("quit," "exit," or "bye" in English).
 
-## Design Notes
+## Development Notes
 * The AI Tutor is designed to:<br>
   o interact through typing so the learner can learn correct spelling in the target language<br>
   o read aloud the Tutor's response via a “Listen” button so the learner can hear correct pronunciation. (Checking the learner’s pronunciation is outside the scope of this project.)<br>
